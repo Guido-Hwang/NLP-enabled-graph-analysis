@@ -1,0 +1,199 @@
+{
+  "no": 0,
+  "error": "成功",
+  "data": {
+    "id": 3447205459,
+    "name": "人帅枪也好",
+    "identity": 0,
+    "name_show": "小小娘?",
+    "profession_manager_nick_name": "",
+    "iconinfo": null,
+    "new_iconinfo": {
+      "1": {
+        "category_id": 104,
+        "end_time": "1735660800",
+        "name": "starmaster",
+        "slot_no": "1",
+        "slot_type": "0",
+        "type": 2,
+        "weight": 1,
+        "position": {
+          "frs": 1,
+          "pb": 1,
+          "home": 1,
+          "card": 1
+        },
+        "terminal": {
+          "pc": 1,
+          "wap": 1,
+          "client": 1
+        },
+        "level_1": {
+          "icon_3": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429669987762.png",
+          "icon_2": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429669999852.png",
+          "icon_1": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670005742.png",
+          "icon_5": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670015949.png",
+          "icon_4": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670023838.png",
+          "icon_6": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670037795.png",
+          "level_info": {
+            "title": "手游0星达人",
+            "title_url": "https://tieba.baidu.com/f?kw=玩家认证&amp;ie=utf-8",
+            "intro": "在手游玩家吧成为手游0星达人认证用户，即可获取哦~",
+            "intro_url": "https://tieba.baidu.com/f?kw=玩家认证&amp;ie=utf-8",
+            "forum_list": "0",
+            "pay_pic_pc": " ",
+            "pay_pic_pad": " "
+          }
+        },
+        "sprite": {
+          "1": "1588060152,76",
+          "2": "1588060152,77",
+          "3": "1588060152,78",
+          "4": "1588060152,79",
+          "5": "1588060152,80",
+          "6": "1588060152,81"
+        },
+        "is_force": 0,
+        "price": 0,
+        "is_advanced": 0,
+        "title": "手游5星达人",
+        "title_url": "https://tieba.baidu.com/f?kw=玩家认证&amp;ie=utf-8",
+        "intro": "在手游玩家吧成为手游5星达人认证用户，即可获取哦~",
+        "intro_url": "https://tieba.baidu.com/f?kw=玩家认证&amp;ie=utf-8",
+        "forum_list": "0",
+        "pay_pic_pc": " ",
+        "pay_pic_pad": " ",
+        "level_2": {
+          "icon_3": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670195809.png",
+          "icon_2": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670205542.png",
+          "icon_1": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670220878.png",
+          "icon_5": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670227517.png",
+          "icon_4": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670235465.png",
+          "icon_6": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670242217.png",
+          "level_info": {
+            "title": "手游1星达人",
+            "title_url": "https://tieba.baidu.com/f?kw=玩家认证&amp;ie=utf-8",
+            "intro": "在手游玩家吧成为手游1星达人认证用户，即可获取哦~",
+            "intro_url": "https://tieba.baidu.com/f?kw=玩家认证&amp;ie=utf-8",
+            "forum_list": "0",
+            "pay_pic_pc": " ",
+            "pay_pic_pad": " "
+          }
+        },
+        "level_3": {
+          "icon_3": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670307639.png",
+          "icon_2": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670315211.png",
+          "icon_1": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670322063.png",
+          "icon_5": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670328302.png",
+          "icon_4": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670335960.png",
+          "icon_6": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670342374.png",
+          "level_info": {
+            "title": "手游2星达人",
+            "title_url": "https://tieba.baidu.com/f?kw=玩家认证&amp;ie=utf-8",
+            "intro": "在手游玩家吧成为手游2星达人认证用户，即可获取哦~",
+            "intro_url": "https://tieba.baidu.com/f?kw=玩家认证&amp;ie=utf-8",
+            "forum_list": "0",
+            "pay_pic_pc": " ",
+            "pay_pic_pad": " "
+          }
+        },
+        "level_4": {
+          "icon_3": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670565360.png",
+          "icon_2": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670572100.png",
+          "icon_1": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670579403.png",
+          "icon_5": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670588885.png",
+          "icon_4": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670595104.png",
+          "icon_6": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670602958.png",
+          "level_info": {
+            "title": "手游3星达人",
+            "title_url": "https://tieba.baidu.com/f?kw=玩家认证&amp;ie=utf-8",
+            "intro": "在手游玩家吧成为手游3星达人认证用户，即可获取哦~",
+            "intro_url": "https://tieba.baidu.com/f?kw=玩家认证&amp;ie=utf-8",
+            "forum_list": "0",
+            "pay_pic_pc": " ",
+            "pay_pic_pad": " "
+          }
+        },
+        "level_5": {
+          "icon_3": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670665956.png",
+          "icon_2": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670671915.png",
+          "icon_1": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670677756.png",
+          "icon_5": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670683824.png",
+          "icon_4": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670689692.png",
+          "icon_6": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670695382.png",
+          "level_info": {
+            "title": "手游4星达人",
+            "title_url": "https://tieba.baidu.com/f?kw=玩家认证&amp;ie=utf-8",
+            "intro": "在手游玩家吧成为手游4星达人认证用户，即可获取哦~",
+            "intro_url": "https://tieba.baidu.com/f?kw=玩家认证&amp;ie=utf-8",
+            "forum_list": "0",
+            "pay_pic_pc": " ",
+            "pay_pic_pad": " "
+          }
+        },
+        "level_6": {
+          "icon_3": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670737569.png",
+          "icon_2": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670746212.png",
+          "icon_1": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670751930.png",
+          "icon_5": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670757612.png",
+          "icon_4": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670763174.png",
+          "icon_6": "https://tb1.bdstatic.com/tb/cms/com/icon/file_1429670769025.png",
+          "level_info": {
+            "title": "手游5星达人",
+            "title_url": "https://tieba.baidu.com/f?kw=玩家认证&amp;ie=utf-8",
+            "intro": "在手游玩家吧成为手游5星达人认证用户，即可获取哦~",
+            "intro_url": "https://tieba.baidu.com/f?kw=玩家认证&amp;ie=utf-8",
+            "forum_list": "0",
+            "pay_pic_pc": " ",
+            "pay_pic_pad": " "
+          }
+        },
+        "value": "1"
+      }
+    },
+    "bg_id": 1001,
+    "portrait": "tb.1.aeb61f50.KogKuEdCPnliHLHFqc4SLQ?t=1536046457",
+    "portrait_h": "tb.1.aeb61f50.KogKuEdCPnliHLHFqc4SLQ?t=1536046457",
+    "portrait_time": 1536046457,
+    "sex": "male",
+    "tb_age": "2.4",
+    "post_num": 1206,
+    "honor": {
+      "manager": null,
+      "grade": {
+        "6": {
+          "forum_list": [
+            "vivo",
+            "华为"
+          ],
+          "count": 5
+        },
+        "7": {
+          "forum_list": [
+            "孙笑川",
+            "小米10"
+          ],
+          "count": 3
+        },
+        "9": {
+          "forum_list": [
+            "cf手游",
+            "小米"
+          ],
+          "count": 2
+        }
+      },
+      "novice": 0
+    },
+    "can_followed": 1,
+    "is_block": 0,
+    "is_private": 0,
+    "mParr_props": null,
+    "tbmall_month_icon": null,
+    "free_flag": null,
+    "marriage": [],
+    "vipInfo": [],
+    "tb_vip": false,
+    "followed_count": 80
+  }
+}
