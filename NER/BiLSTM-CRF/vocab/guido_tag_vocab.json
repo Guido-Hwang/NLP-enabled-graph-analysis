@@ -1,0 +1,22 @@
+{
+  "word2id": {
+    "O": 0,
+    "<START>": 1,
+    "<END>": 2,
+    "B-B": 3,
+    "I-B": 4,
+    "B-Attribute": 5,
+    "I-Attribute": 6,
+    "<PAD>": 7
+  },
+  "id2word": [
+    "O",
+    "<START>",
+    "<END>",
+    "B-B",
+    "I-B",
+    "B-Attribute",
+    "I-Attribute",
+    "<PAD>"
+  ]
+}
